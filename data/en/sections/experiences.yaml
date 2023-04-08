@@ -11,54 +11,34 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Takeda
+    url: "https://www.takeda.com/de-at"
+    location: Austria, Vienna
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Takeda is a patient-focused, values-based, R&D-driven global biopharmaceutical company committed to bringing Better Health and a Brighter Future to people worldwide.
   positions:
-  - designation: Senior Software Engineer
+  - designation: Head of Digital & Data Science
     start: Nov 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Managing Data Science projects
+    - Responsible for Digitalization of core business processes
+    - Business Process Owner for Continuous Process Verification (CPV)
 
-  - designation: Junior Software Engineer
+  - designation: Process Knowledge & Control Lead
     start: Nov 2017
     end: Oct 2019
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Responsible for CPV roll-out
+    - Statistical support for technical problem solvings (Sartorius SIMCA)
+    - Coordinating deployment of historian database (OsiSoft PI System)
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Trainee
+    start: Oct 2015
+    end: Oct 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Leading global projects
+    - Gathering leadership experience
+    - Take over responsibility for routine GxP-Support tasks
